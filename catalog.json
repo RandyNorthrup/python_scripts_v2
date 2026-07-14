@@ -1,0 +1,1136 @@
+[
+  {
+    "category": "calculators",
+    "slug": "age_in_days",
+    "title": "Age in Days Estimator",
+    "summary": "Estimate age in days and hours from years.",
+    "script": "apps/calculators/age_in_days/age_in_days.py"
+  },
+  {
+    "category": "calculators",
+    "slug": "bmi_calculator",
+    "title": "BMI Calculator",
+    "summary": "Calculate body mass index from metric measurements.",
+    "script": "apps/calculators/bmi_calculator/bmi_calculator.py"
+  },
+  {
+    "category": "calculators",
+    "slug": "break_even",
+    "title": "Break-even Calculator",
+    "summary": "Find sales volume needed to cover fixed costs.",
+    "script": "apps/calculators/break_even/break_even.py"
+  },
+  {
+    "category": "calculators",
+    "slug": "compound_interest",
+    "title": "Compound Interest Calculator",
+    "summary": "Estimate investment growth with monthly compounding.",
+    "script": "apps/calculators/compound_interest/compound_interest.py"
+  },
+  {
+    "category": "calculators",
+    "slug": "data_size_converter",
+    "title": "Data Size Converter",
+    "summary": "Convert bytes into binary storage units.",
+    "script": "apps/calculators/data_size_converter/data_size_converter.py"
+  },
+  {
+    "category": "calculators",
+    "slug": "electricity_cost",
+    "title": "Electricity Cost Calculator",
+    "summary": "Estimate appliance energy use and cost.",
+    "script": "apps/calculators/electricity_cost/electricity_cost.py"
+  },
+  {
+    "category": "calculators",
+    "slug": "fuel_cost",
+    "title": "Fuel Cost Calculator",
+    "summary": "Estimate fuel volume and trip cost.",
+    "script": "apps/calculators/fuel_cost/fuel_cost.py"
+  },
+  {
+    "category": "calculators",
+    "slug": "grade_average",
+    "title": "Weighted Grade Calculator",
+    "summary": "Combine two assessment scores using configurable weights.",
+    "script": "apps/calculators/grade_average/grade_average.py"
+  },
+  {
+    "category": "calculators",
+    "slug": "length_converter",
+    "title": "Length Converter",
+    "summary": "Convert meters into common metric and imperial lengths.",
+    "script": "apps/calculators/length_converter/length_converter.py"
+  },
+  {
+    "category": "calculators",
+    "slug": "loan_payment",
+    "title": "Loan Payment Calculator",
+    "summary": "Estimate monthly payment and total loan cost.",
+    "script": "apps/calculators/loan_payment/loan_payment.py"
+  },
+  {
+    "category": "calculators",
+    "slug": "paint_estimator",
+    "title": "Paint Estimator",
+    "summary": "Estimate paint needed for rectangular walls.",
+    "script": "apps/calculators/paint_estimator/paint_estimator.py"
+  },
+  {
+    "category": "calculators",
+    "slug": "percentage_change",
+    "title": "Percentage Change Calculator",
+    "summary": "Measure absolute and percentage change between values.",
+    "script": "apps/calculators/percentage_change/percentage_change.py"
+  },
+  {
+    "category": "calculators",
+    "slug": "recipe_scaler",
+    "title": "Recipe Scaler",
+    "summary": "Scale an ingredient amount between serving counts.",
+    "script": "apps/calculators/recipe_scaler/recipe_scaler.py"
+  },
+  {
+    "category": "calculators",
+    "slug": "running_pace",
+    "title": "Running Pace Calculator",
+    "summary": "Convert race distance and finish time into running pace.",
+    "script": "apps/calculators/running_pace/running_pace.py"
+  },
+  {
+    "category": "calculators",
+    "slug": "savings_goal",
+    "title": "Savings Goal Calculator",
+    "summary": "Estimate months needed to reach a savings target.",
+    "script": "apps/calculators/savings_goal/savings_goal.py"
+  },
+  {
+    "category": "calculators",
+    "slug": "screen_ppi",
+    "title": "Screen PPI Calculator",
+    "summary": "Calculate display pixel density from resolution and diagonal size.",
+    "script": "apps/calculators/screen_ppi/screen_ppi.py"
+  },
+  {
+    "category": "calculators",
+    "slug": "temperature_converter",
+    "title": "Temperature Converter",
+    "summary": "Convert Celsius into Fahrenheit and Kelvin.",
+    "script": "apps/calculators/temperature_converter/temperature_converter.py"
+  },
+  {
+    "category": "calculators",
+    "slug": "time_zone_offset",
+    "title": "Time Zone Offset Calculator",
+    "summary": "Shift a 24-hour clock time by a UTC offset.",
+    "script": "apps/calculators/time_zone_offset/time_zone_offset.py"
+  },
+  {
+    "category": "calculators",
+    "slug": "tip_calculator",
+    "title": "Tip Calculator",
+    "summary": "Split a restaurant bill with a configurable tip.",
+    "script": "apps/calculators/tip_calculator/tip_calculator.py"
+  },
+  {
+    "category": "calculators",
+    "slug": "unit_price_comparator",
+    "title": "Unit Price Comparator",
+    "summary": "Compare two package prices using cost per unit.",
+    "script": "apps/calculators/unit_price_comparator/unit_price_comparator.py"
+  },
+  {
+    "category": "creative",
+    "slug": "ascii_pattern",
+    "title": "ASCII Pattern Designer",
+    "summary": "Generate small instructions for text-based geometric art.",
+    "script": "apps/creative/ascii_pattern/ascii_pattern.py"
+  },
+  {
+    "category": "creative",
+    "slug": "character_builder",
+    "title": "Character Builder",
+    "summary": "Create compact character concepts with motivations and contradictions.",
+    "script": "apps/creative/character_builder/character_builder.py"
+  },
+  {
+    "category": "creative",
+    "slug": "chord_progression",
+    "title": "Chord Progression Generator",
+    "summary": "Suggest song sections using Roman-numeral chord progressions.",
+    "script": "apps/creative/chord_progression/chord_progression.py"
+  },
+  {
+    "category": "creative",
+    "slug": "color_palette",
+    "title": "Color Palette Namer",
+    "summary": "Invent themed color-palette briefs for visual projects.",
+    "script": "apps/creative/color_palette/color_palette.py"
+  },
+  {
+    "category": "creative",
+    "slug": "comic_panel",
+    "title": "Comic Panel Generator",
+    "summary": "Create three-beat visual comedy setups for drawing practice.",
+    "script": "apps/creative/comic_panel/comic_panel.py"
+  },
+  {
+    "category": "creative",
+    "slug": "dungeon_room",
+    "title": "Dungeon Room Generator",
+    "summary": "Build tabletop dungeon rooms with hazards, clues, and rewards.",
+    "script": "apps/creative/dungeon_room/dungeon_room.py"
+  },
+  {
+    "category": "creative",
+    "slug": "fantasy_name",
+    "title": "Fantasy Name Generator",
+    "summary": "Generate pronounceable fantasy place and character names.",
+    "script": "apps/creative/fantasy_name/fantasy_name.py"
+  },
+  {
+    "category": "creative",
+    "slug": "haiku_seed",
+    "title": "Haiku Seed Generator",
+    "summary": "Offer three vivid image fragments for drafting a haiku.",
+    "script": "apps/creative/haiku_seed/haiku_seed.py"
+  },
+  {
+    "category": "creative",
+    "slug": "logo_brief",
+    "title": "Logo Brief Generator",
+    "summary": "Draft compact fictional logo briefs for design practice.",
+    "script": "apps/creative/logo_brief/logo_brief.py"
+  },
+  {
+    "category": "creative",
+    "slug": "melody_pattern",
+    "title": "Melody Pattern Generator",
+    "summary": "Create scale-degree motifs for melody practice.",
+    "script": "apps/creative/melody_pattern/melody_pattern.py"
+  },
+  {
+    "category": "creative",
+    "slug": "metaphor_mixer",
+    "title": "Metaphor Mixer",
+    "summary": "Mix sensory images into surprising metaphor starters.",
+    "script": "apps/creative/metaphor_mixer/metaphor_mixer.py"
+  },
+  {
+    "category": "creative",
+    "slug": "npc_dialogue",
+    "title": "NPC Dialogue Seed",
+    "summary": "Generate tabletop NPC voices, needs, and opening lines.",
+    "script": "apps/creative/npc_dialogue/npc_dialogue.py"
+  },
+  {
+    "category": "creative",
+    "slug": "planet_generator",
+    "title": "Planet Generator",
+    "summary": "Invent science-fiction worlds with environments and mysteries.",
+    "script": "apps/creative/planet_generator/planet_generator.py"
+  },
+  {
+    "category": "creative",
+    "slug": "plot_twist",
+    "title": "Plot Twist Generator",
+    "summary": "Add fair but surprising reversals to story outlines.",
+    "script": "apps/creative/plot_twist/plot_twist.py"
+  },
+  {
+    "category": "creative",
+    "slug": "poem_seed",
+    "title": "Poem Seed Generator",
+    "summary": "Offer a title, image, sound, and final-word constraint for a poem.",
+    "script": "apps/creative/poem_seed/poem_seed.py"
+  },
+  {
+    "category": "creative",
+    "slug": "recipe_idea",
+    "title": "Recipe Idea Generator",
+    "summary": "Combine ingredients, techniques, and flavor directions for cooking experiments.",
+    "script": "apps/creative/recipe_idea/recipe_idea.py"
+  },
+  {
+    "category": "creative",
+    "slug": "story_prompt",
+    "title": "Story Prompt Generator",
+    "summary": "Combine a protagonist, goal, obstacle, and setting into writing prompts.",
+    "script": "apps/creative/story_prompt/story_prompt.py"
+  },
+  {
+    "category": "creative",
+    "slug": "superhero_generator",
+    "title": "Superhero Generator",
+    "summary": "Create unusual heroes with powers, limits, and civic problems.",
+    "script": "apps/creative/superhero_generator/superhero_generator.py"
+  },
+  {
+    "category": "creative",
+    "slug": "worldbuilding_question",
+    "title": "Worldbuilding Question Generator",
+    "summary": "Ask focused questions that expose consequences in fictional worlds.",
+    "script": "apps/creative/worldbuilding_question/worldbuilding_question.py"
+  },
+  {
+    "category": "creative",
+    "slug": "writing_constraint",
+    "title": "Writing Constraint Generator",
+    "summary": "Create playful constraints for a short writing exercise.",
+    "script": "apps/creative/writing_constraint/writing_constraint.py"
+  },
+  {
+    "category": "developer",
+    "slug": "base64_encoder",
+    "title": "Base64 Encoder",
+    "summary": "Encode UTF-8 text as Base64.",
+    "script": "apps/developer/base64_encoder/base64_encoder.py"
+  },
+  {
+    "category": "developer",
+    "slug": "chmod_calculator",
+    "title": "Chmod Calculator",
+    "summary": "Convert a three-digit Unix permission mode into symbolic form.",
+    "script": "apps/developer/chmod_calculator/chmod_calculator.py"
+  },
+  {
+    "category": "developer",
+    "slug": "color_converter",
+    "title": "Color Converter",
+    "summary": "Convert a six-digit hexadecimal color to RGB and HSL.",
+    "script": "apps/developer/color_converter/color_converter.py"
+  },
+  {
+    "category": "developer",
+    "slug": "cron_explainer",
+    "title": "Cron Field Explainer",
+    "summary": "Explain the five fields of a basic cron expression.",
+    "script": "apps/developer/cron_explainer/cron_explainer.py"
+  },
+  {
+    "category": "developer",
+    "slug": "deterministic_uuid",
+    "title": "Deterministic UUID",
+    "summary": "Create a stable UUID from a text namespace value.",
+    "script": "apps/developer/deterministic_uuid/deterministic_uuid.py"
+  },
+  {
+    "category": "developer",
+    "slug": "env_diff",
+    "title": "Environment Diff",
+    "summary": "Compare KEY=VALUE blocks separated by a vertical bar without changing files.",
+    "script": "apps/developer/env_diff/env_diff.py"
+  },
+  {
+    "category": "developer",
+    "slug": "fake_record_generator",
+    "title": "Fake Record Generator",
+    "summary": "Create deterministic fictional test data from a seed phrase.",
+    "script": "apps/developer/fake_record_generator/fake_record_generator.py"
+  },
+  {
+    "category": "developer",
+    "slug": "hash_text",
+    "title": "Text Hashes",
+    "summary": "Calculate SHA-256 and SHA-512 digests for text.",
+    "script": "apps/developer/hash_text/hash_text.py"
+  },
+  {
+    "category": "developer",
+    "slug": "http_status_lookup",
+    "title": "HTTP Status Lookup",
+    "summary": "Look up the standard phrase for an HTTP status code.",
+    "script": "apps/developer/http_status_lookup/http_status_lookup.py"
+  },
+  {
+    "category": "developer",
+    "slug": "jwt_payload_decoder",
+    "title": "JWT Payload Decoder",
+    "summary": "Decode a JWT payload locally without claiming signature verification.",
+    "script": "apps/developer/jwt_payload_decoder/jwt_payload_decoder.py"
+  },
+  {
+    "category": "developer",
+    "slug": "lorem_generator",
+    "title": "Lorem Generator",
+    "summary": "Generate a deterministic filler paragraph from a numeric word count.",
+    "script": "apps/developer/lorem_generator/lorem_generator.py"
+  },
+  {
+    "category": "developer",
+    "slug": "markdown_table_maker",
+    "title": "Markdown Table Maker",
+    "summary": "Convert semicolon-separated rows and comma-separated cells into a Markdown table.",
+    "script": "apps/developer/markdown_table_maker/markdown_table_maker.py"
+  },
+  {
+    "category": "developer",
+    "slug": "query_string_parser",
+    "title": "Query String Parser",
+    "summary": "Parse a URL query string into readable key-value pairs.",
+    "script": "apps/developer/query_string_parser/query_string_parser.py"
+  },
+  {
+    "category": "developer",
+    "slug": "regex_tester",
+    "title": "Regex Tester",
+    "summary": "Test a regular expression against text separated by a vertical bar.",
+    "script": "apps/developer/regex_tester/regex_tester.py"
+  },
+  {
+    "category": "developer",
+    "slug": "semantic_version_compare",
+    "title": "Semantic Version Compare",
+    "summary": "Compare two numeric semantic versions separated by a vertical bar.",
+    "script": "apps/developer/semantic_version_compare/semantic_version_compare.py"
+  },
+  {
+    "category": "developer",
+    "slug": "sql_keyword_formatter",
+    "title": "SQL Keyword Formatter",
+    "summary": "Uppercase common SQL keywords and place major clauses on new lines.",
+    "script": "apps/developer/sql_keyword_formatter/sql_keyword_formatter.py"
+  },
+  {
+    "category": "developer",
+    "slug": "subnet_inspector",
+    "title": "Subnet Inspector",
+    "summary": "Inspect an IPv4 or IPv6 network in CIDR notation.",
+    "script": "apps/developer/subnet_inspector/subnet_inspector.py"
+  },
+  {
+    "category": "developer",
+    "slug": "text_to_hex",
+    "title": "Text to Hex",
+    "summary": "Show UTF-8 bytes as hexadecimal and decimal values.",
+    "script": "apps/developer/text_to_hex/text_to_hex.py"
+  },
+  {
+    "category": "developer",
+    "slug": "unified_diff",
+    "title": "Unified Diff Maker",
+    "summary": "Compare two short text blocks separated by a vertical bar.",
+    "script": "apps/developer/unified_diff/unified_diff.py"
+  },
+  {
+    "category": "developer",
+    "slug": "unix_timestamp",
+    "title": "Unix Timestamp Converter",
+    "summary": "Convert an ISO-8601 datetime into a Unix timestamp.",
+    "script": "apps/developer/unix_timestamp/unix_timestamp.py"
+  },
+  {
+    "category": "developer",
+    "slug": "url_encoder",
+    "title": "URL Encoder",
+    "summary": "Percent-encode text for safe URL query use.",
+    "script": "apps/developer/url_encoder/url_encoder.py"
+  },
+  {
+    "category": "file_tools",
+    "slug": "batch_rename_preview",
+    "title": "Batch Rename Preview",
+    "summary": "Preview sequential filenames for files in a directory.",
+    "script": "apps/file_tools/batch_rename_preview/batch_rename_preview.py"
+  },
+  {
+    "category": "file_tools",
+    "slug": "checksum_maker",
+    "title": "Checksum Maker",
+    "summary": "Calculate SHA-256 checksums for a file or directory.",
+    "script": "apps/file_tools/checksum_maker/checksum_maker.py"
+  },
+  {
+    "category": "file_tools",
+    "slug": "csv_column_preview",
+    "title": "CSV Column Preview",
+    "summary": "Show CSV headers and up to five example values per column.",
+    "script": "apps/file_tools/csv_column_preview/csv_column_preview.py"
+  },
+  {
+    "category": "file_tools",
+    "slug": "csv_summary",
+    "title": "CSV Summary",
+    "summary": "Summarize CSV rows, columns, and missing cells.",
+    "script": "apps/file_tools/csv_summary/csv_summary.py"
+  },
+  {
+    "category": "file_tools",
+    "slug": "directory_tree",
+    "title": "Directory Tree",
+    "summary": "Print a compact, sorted directory tree.",
+    "script": "apps/file_tools/directory_tree/directory_tree.py"
+  },
+  {
+    "category": "file_tools",
+    "slug": "disk_usage_report",
+    "title": "Disk Usage Report",
+    "summary": "Summarize file counts and byte usage beneath a path.",
+    "script": "apps/file_tools/disk_usage_report/disk_usage_report.py"
+  },
+  {
+    "category": "file_tools",
+    "slug": "duplicate_file_finder",
+    "title": "Duplicate File Finder",
+    "summary": "Find exact duplicate files using size and SHA-256 without deleting anything.",
+    "script": "apps/file_tools/duplicate_file_finder/duplicate_file_finder.py"
+  },
+  {
+    "category": "file_tools",
+    "slug": "empty_file_finder",
+    "title": "Empty File Finder",
+    "summary": "Find zero-byte files and empty directories without deleting them.",
+    "script": "apps/file_tools/empty_file_finder/empty_file_finder.py"
+  },
+  {
+    "category": "file_tools",
+    "slug": "extension_counter",
+    "title": "File Extension Counter",
+    "summary": "Count files by extension beneath a directory.",
+    "script": "apps/file_tools/extension_counter/extension_counter.py"
+  },
+  {
+    "category": "file_tools",
+    "slug": "filename_sanitizer_preview",
+    "title": "Filename Sanitizer Preview",
+    "summary": "Preview portable sanitized filenames without renaming anything.",
+    "script": "apps/file_tools/filename_sanitizer_preview/filename_sanitizer_preview.py"
+  },
+  {
+    "category": "file_tools",
+    "slug": "ini_inspector",
+    "title": "INI Inspector",
+    "summary": "List sections and keys in an INI configuration file.",
+    "script": "apps/file_tools/ini_inspector/ini_inspector.py"
+  },
+  {
+    "category": "file_tools",
+    "slug": "json_key_finder",
+    "title": "JSON Key Finder",
+    "summary": "List every dotted key path found in a JSON document.",
+    "script": "apps/file_tools/json_key_finder/json_key_finder.py"
+  },
+  {
+    "category": "file_tools",
+    "slug": "json_pretty_printer",
+    "title": "JSON Pretty Printer",
+    "summary": "Validate and pretty-print a JSON file.",
+    "script": "apps/file_tools/json_pretty_printer/json_pretty_printer.py"
+  },
+  {
+    "category": "file_tools",
+    "slug": "largest_file_report",
+    "title": "Largest File Report",
+    "summary": "List the largest files beneath a path.",
+    "script": "apps/file_tools/largest_file_report/largest_file_report.py"
+  },
+  {
+    "category": "file_tools",
+    "slug": "line_statistics",
+    "title": "Line Statistics",
+    "summary": "Count text lines, blank lines, and longest line length.",
+    "script": "apps/file_tools/line_statistics/line_statistics.py"
+  },
+  {
+    "category": "file_tools",
+    "slug": "log_level_counter",
+    "title": "Log Level Counter",
+    "summary": "Count common severity labels in a log file.",
+    "script": "apps/file_tools/log_level_counter/log_level_counter.py"
+  },
+  {
+    "category": "file_tools",
+    "slug": "python_import_scanner",
+    "title": "Python Import Scanner",
+    "summary": "List imported top-level modules from Python source files using the AST.",
+    "script": "apps/file_tools/python_import_scanner/python_import_scanner.py"
+  },
+  {
+    "category": "file_tools",
+    "slug": "recent_file_report",
+    "title": "Recent File Report",
+    "summary": "List recently modified files below a path.",
+    "script": "apps/file_tools/recent_file_report/recent_file_report.py"
+  },
+  {
+    "category": "file_tools",
+    "slug": "text_encoding_probe",
+    "title": "Text Encoding Probe",
+    "summary": "Check whether a file decodes as UTF-8, UTF-8 with BOM, or Latin-1.",
+    "script": "apps/file_tools/text_encoding_probe/text_encoding_probe.py"
+  },
+  {
+    "category": "file_tools",
+    "slug": "todo_scanner",
+    "title": "TODO Scanner",
+    "summary": "Find TODO, FIXME, and NOTE markers in text files.",
+    "script": "apps/file_tools/todo_scanner/todo_scanner.py"
+  },
+  {
+    "category": "games",
+    "slug": "battleship_shot",
+    "title": "Battleship Shot",
+    "summary": "Fire one shot at a hidden ship on a five-by-five grid.",
+    "script": "apps/games/battleship_shot/battleship_shot.py"
+  },
+  {
+    "category": "games",
+    "slug": "blackjack_lite",
+    "title": "Blackjack Lite",
+    "summary": "Play a simplified hit-or-stand blackjack hand.",
+    "script": "apps/games/blackjack_lite/blackjack_lite.py"
+  },
+  {
+    "category": "games",
+    "slug": "codebreaker",
+    "title": "Codebreaker",
+    "summary": "Crack a four-digit code using exact and misplaced digit clues.",
+    "script": "apps/games/codebreaker/codebreaker.py"
+  },
+  {
+    "category": "games",
+    "slug": "coin_streak",
+    "title": "Coin Streak Hunt",
+    "summary": "Flip coins until a target run of matching sides appears.",
+    "script": "apps/games/coin_streak/coin_streak.py"
+  },
+  {
+    "category": "games",
+    "slug": "dice_duel",
+    "title": "Dice Duel",
+    "summary": "Roll two dice against a computer opponent for three rounds.",
+    "script": "apps/games/dice_duel/dice_duel.py"
+  },
+  {
+    "category": "games",
+    "slug": "hangman_lite",
+    "title": "Hangman Lite",
+    "summary": "Guess letters in a short word before six misses.",
+    "script": "apps/games/hangman_lite/hangman_lite.py"
+  },
+  {
+    "category": "games",
+    "slug": "higher_lower",
+    "title": "Higher or Lower",
+    "summary": "Predict whether a second card will be higher than the first.",
+    "script": "apps/games/higher_lower/higher_lower.py"
+  },
+  {
+    "category": "games",
+    "slug": "math_race",
+    "title": "Math Race",
+    "summary": "Solve five generated arithmetic questions against a timer-free score target.",
+    "script": "apps/games/math_race/math_race.py"
+  },
+  {
+    "category": "games",
+    "slug": "maze_path",
+    "title": "Maze Path",
+    "summary": "Navigate a small generated obstacle grid toward a goal.",
+    "script": "apps/games/maze_path/maze_path.py"
+  },
+  {
+    "category": "games",
+    "slug": "memory_sequence",
+    "title": "Memory Sequence",
+    "summary": "Memorize and repeat an expanding digit sequence.",
+    "script": "apps/games/memory_sequence/memory_sequence.py"
+  },
+  {
+    "category": "games",
+    "slug": "minesweeper_lite",
+    "title": "Minesweeper Lite",
+    "summary": "Reveal one cell on a generated five-by-five minefield.",
+    "script": "apps/games/minesweeper_lite/minesweeper_lite.py"
+  },
+  {
+    "category": "games",
+    "slug": "nim_stones",
+    "title": "Nim Stones",
+    "summary": "Take one to three stones; player taking the last stone wins.",
+    "script": "apps/games/nim_stones/nim_stones.py"
+  },
+  {
+    "category": "games",
+    "slug": "number_guess",
+    "title": "Number Guess",
+    "summary": "Guess a hidden number from 1 to 100 with higher-or-lower clues.",
+    "script": "apps/games/number_guess/number_guess.py"
+  },
+  {
+    "category": "games",
+    "slug": "rock_paper_scissors",
+    "title": "Rock Paper Scissors",
+    "summary": "Play one classic hand-game round against the computer.",
+    "script": "apps/games/rock_paper_scissors/rock_paper_scissors.py"
+  },
+  {
+    "category": "games",
+    "slug": "sliding_tiles",
+    "title": "Sliding Tiles",
+    "summary": "Apply one move to a tiny 2×2 sliding-tile puzzle.",
+    "script": "apps/games/sliding_tiles/sliding_tiles.py"
+  },
+  {
+    "category": "games",
+    "slug": "tic_tac_toe",
+    "title": "Tic-Tac-Toe",
+    "summary": "Play a compact tic-tac-toe match against random moves.",
+    "script": "apps/games/tic_tac_toe/tic_tac_toe.py"
+  },
+  {
+    "category": "games",
+    "slug": "tiny_adventure",
+    "title": "Tiny Adventure",
+    "summary": "Choose a path through a three-scene text adventure.",
+    "script": "apps/games/tiny_adventure/tiny_adventure.py"
+  },
+  {
+    "category": "games",
+    "slug": "trivia_challenge",
+    "title": "Trivia Challenge",
+    "summary": "Answer a shuffled set of general-knowledge questions.",
+    "script": "apps/games/trivia_challenge/trivia_challenge.py"
+  },
+  {
+    "category": "games",
+    "slug": "word_ladder",
+    "title": "Word Ladder",
+    "summary": "Change one letter at a time to transform one word into another.",
+    "script": "apps/games/word_ladder/word_ladder.py"
+  },
+  {
+    "category": "games",
+    "slug": "word_scramble",
+    "title": "Word Scramble",
+    "summary": "Unscramble a shuffled Python-related word.",
+    "script": "apps/games/word_scramble/word_scramble.py"
+  },
+  {
+    "category": "learning",
+    "slug": "art_history",
+    "title": "Art History Quiz",
+    "summary": "Connect major art movements with defining ideas.",
+    "script": "apps/learning/art_history/art_history.py"
+  },
+  {
+    "category": "learning",
+    "slug": "astronomy_basics",
+    "title": "Astronomy Basics Quiz",
+    "summary": "Review solar-system and stellar concepts.",
+    "script": "apps/learning/astronomy_basics/astronomy_basics.py"
+  },
+  {
+    "category": "learning",
+    "slug": "binary_numbers",
+    "title": "Binary Number Quiz",
+    "summary": "Practice converting small binary and decimal values.",
+    "script": "apps/learning/binary_numbers/binary_numbers.py"
+  },
+  {
+    "category": "learning",
+    "slug": "capital_cities",
+    "title": "Capital City Quiz",
+    "summary": "Practice country and capital pairs.",
+    "script": "apps/learning/capital_cities/capital_cities.py"
+  },
+  {
+    "category": "learning",
+    "slug": "computer_networks",
+    "title": "Computer Networks Quiz",
+    "summary": "Review practical networking concepts and protocols.",
+    "script": "apps/learning/computer_networks/computer_networks.py"
+  },
+  {
+    "category": "learning",
+    "slug": "electricity_basics",
+    "title": "Electricity Basics Quiz",
+    "summary": "Review voltage, current, resistance, and power.",
+    "script": "apps/learning/electricity_basics/electricity_basics.py"
+  },
+  {
+    "category": "learning",
+    "slug": "fraction_skills",
+    "title": "Fraction Skills Quiz",
+    "summary": "Practice simplifying and comparing fractions.",
+    "script": "apps/learning/fraction_skills/fraction_skills.py"
+  },
+  {
+    "category": "learning",
+    "slug": "geology_basics",
+    "title": "Geology Basics Quiz",
+    "summary": "Learn rock types and Earth structure.",
+    "script": "apps/learning/geology_basics/geology_basics.py"
+  },
+  {
+    "category": "learning",
+    "slug": "human_body",
+    "title": "Human Body Quiz",
+    "summary": "Review foundational anatomy and physiology.",
+    "script": "apps/learning/human_body/human_body.py"
+  },
+  {
+    "category": "learning",
+    "slug": "logical_reasoning",
+    "title": "Logical Reasoning Quiz",
+    "summary": "Practice basic logical operators and implications.",
+    "script": "apps/learning/logical_reasoning/logical_reasoning.py"
+  },
+  {
+    "category": "learning",
+    "slug": "multiplication_trainer",
+    "title": "Multiplication Trainer",
+    "summary": "Practice mental multiplication facts.",
+    "script": "apps/learning/multiplication_trainer/multiplication_trainer.py"
+  },
+  {
+    "category": "learning",
+    "slug": "music_theory",
+    "title": "Music Theory Quiz",
+    "summary": "Review intervals, scales, and notation.",
+    "script": "apps/learning/music_theory/music_theory.py"
+  },
+  {
+    "category": "learning",
+    "slug": "periodic_table",
+    "title": "Periodic Table Quiz",
+    "summary": "Review common chemical element symbols.",
+    "script": "apps/learning/periodic_table/periodic_table.py"
+  },
+  {
+    "category": "learning",
+    "slug": "physics_motion",
+    "title": "Physics Motion Quiz",
+    "summary": "Review basic speed, acceleration, and force ideas.",
+    "script": "apps/learning/physics_motion/physics_motion.py"
+  },
+  {
+    "category": "learning",
+    "slug": "prime_numbers",
+    "title": "Prime Number Quiz",
+    "summary": "Review factors and small prime numbers.",
+    "script": "apps/learning/prime_numbers/prime_numbers.py"
+  },
+  {
+    "category": "learning",
+    "slug": "probability_basics",
+    "title": "Probability Basics Quiz",
+    "summary": "Practice simple event probabilities.",
+    "script": "apps/learning/probability_basics/probability_basics.py"
+  },
+  {
+    "category": "learning",
+    "slug": "python_basics",
+    "title": "Python Basics Quiz",
+    "summary": "Review core Python syntax and data types.",
+    "script": "apps/learning/python_basics/python_basics.py"
+  },
+  {
+    "category": "learning",
+    "slug": "statistics_basics",
+    "title": "Statistics Basics Quiz",
+    "summary": "Review mean, median, mode, and range.",
+    "script": "apps/learning/statistics_basics/statistics_basics.py"
+  },
+  {
+    "category": "learning",
+    "slug": "vocabulary_builder",
+    "title": "Vocabulary Builder",
+    "summary": "Learn precise English vocabulary through short definitions.",
+    "script": "apps/learning/vocabulary_builder/vocabulary_builder.py"
+  },
+  {
+    "category": "learning",
+    "slug": "world_history",
+    "title": "World History Quiz",
+    "summary": "Review selected milestones from world history.",
+    "script": "apps/learning/world_history/world_history.py"
+  },
+  {
+    "category": "planning",
+    "slug": "battery_runtime",
+    "title": "Battery Runtime Estimator",
+    "summary": "Estimate ideal battery runtime from capacity and device draw.",
+    "script": "apps/planning/battery_runtime/battery_runtime.py"
+  },
+  {
+    "category": "planning",
+    "slug": "budget_allocator",
+    "title": "50-30-20 Budget Allocator",
+    "summary": "Split take-home income into needs, wants, and savings targets.",
+    "script": "apps/planning/budget_allocator/budget_allocator.py"
+  },
+  {
+    "category": "planning",
+    "slug": "commute_emissions",
+    "title": "Commute Emissions Estimator",
+    "summary": "Estimate travel emissions using a configurable per-kilometer factor.",
+    "script": "apps/planning/commute_emissions/commute_emissions.py"
+  },
+  {
+    "category": "planning",
+    "slug": "commute_time",
+    "title": "Commute Time Planner",
+    "summary": "Estimate weekly and annual commute time.",
+    "script": "apps/planning/commute_time/commute_time.py"
+  },
+  {
+    "category": "planning",
+    "slug": "debt_payoff",
+    "title": "Debt Payoff Estimator",
+    "summary": "Estimate payoff time without interest using a fixed monthly payment.",
+    "script": "apps/planning/debt_payoff/debt_payoff.py"
+  },
+  {
+    "category": "planning",
+    "slug": "emergency_fund",
+    "title": "Emergency Fund Planner",
+    "summary": "Estimate emergency-fund target and funding time.",
+    "script": "apps/planning/emergency_fund/emergency_fund.py"
+  },
+  {
+    "category": "planning",
+    "slug": "event_capacity",
+    "title": "Event Capacity Planner",
+    "summary": "Estimate table count and floor-space needs for an event.",
+    "script": "apps/planning/event_capacity/event_capacity.py"
+  },
+  {
+    "category": "planning",
+    "slug": "freelance_rate",
+    "title": "Freelance Rate Planner",
+    "summary": "Estimate an hourly freelance rate from income and overhead goals.",
+    "script": "apps/planning/freelance_rate/freelance_rate.py"
+  },
+  {
+    "category": "planning",
+    "slug": "garden_spacing",
+    "title": "Garden Spacing Planner",
+    "summary": "Estimate plant capacity for a rectangular garden bed.",
+    "script": "apps/planning/garden_spacing/garden_spacing.py"
+  },
+  {
+    "category": "planning",
+    "slug": "hydration_goal",
+    "title": "Hydration Goal",
+    "summary": "Estimate a simple daily water goal from body weight and activity.",
+    "script": "apps/planning/hydration_goal/hydration_goal.py"
+  },
+  {
+    "category": "planning",
+    "slug": "meal_portion",
+    "title": "Meal Portion Planner",
+    "summary": "Scale meal portions across people and meals.",
+    "script": "apps/planning/meal_portion/meal_portion.py"
+  },
+  {
+    "category": "planning",
+    "slug": "meeting_cost",
+    "title": "Meeting Cost Estimator",
+    "summary": "Estimate labor cost of a meeting.",
+    "script": "apps/planning/meeting_cost/meeting_cost.py"
+  },
+  {
+    "category": "planning",
+    "slug": "pet_food_plan",
+    "title": "Pet Food Planner",
+    "summary": "Estimate food needed and cost over a planning period.",
+    "script": "apps/planning/pet_food_plan/pet_food_plan.py"
+  },
+  {
+    "category": "planning",
+    "slug": "pomodoro_plan",
+    "title": "Pomodoro Plan",
+    "summary": "Turn work and break intervals into a session timeline.",
+    "script": "apps/planning/pomodoro_plan/pomodoro_plan.py"
+  },
+  {
+    "category": "planning",
+    "slug": "reading_plan",
+    "title": "Reading Plan",
+    "summary": "Estimate daily pages and reading time for a deadline.",
+    "script": "apps/planning/reading_plan/reading_plan.py"
+  },
+  {
+    "category": "planning",
+    "slug": "retirement_contribution",
+    "title": "Retirement Contribution Planner",
+    "summary": "Estimate annual retirement contributions including employer match.",
+    "script": "apps/planning/retirement_contribution/retirement_contribution.py"
+  },
+  {
+    "category": "planning",
+    "slug": "sleep_cycle_planner",
+    "title": "Sleep Cycle Planner",
+    "summary": "Estimate sleep duration and cycle count between bedtime and wake time.",
+    "script": "apps/planning/sleep_cycle_planner/sleep_cycle_planner.py"
+  },
+  {
+    "category": "planning",
+    "slug": "study_scheduler",
+    "title": "Study Scheduler",
+    "summary": "Allocate study time evenly across subjects and days.",
+    "script": "apps/planning/study_scheduler/study_scheduler.py"
+  },
+  {
+    "category": "planning",
+    "slug": "travel_budget",
+    "title": "Travel Budget",
+    "summary": "Estimate total trip cost from daily and fixed expenses.",
+    "script": "apps/planning/travel_budget/travel_budget.py"
+  },
+  {
+    "category": "planning",
+    "slug": "weekly_goal_splitter",
+    "title": "Weekly Goal Splitter",
+    "summary": "Break a measurable goal into weekday and weekend targets.",
+    "script": "apps/planning/weekly_goal_splitter/weekly_goal_splitter.py"
+  },
+  {
+    "category": "planning",
+    "slug": "workout_volume",
+    "title": "Workout Volume Planner",
+    "summary": "Calculate resistance-training volume from sets, reps, and weight.",
+    "script": "apps/planning/workout_volume/workout_volume.py"
+  },
+  {
+    "category": "text_tools",
+    "slug": "anagram_checker",
+    "title": "Anagram Checker",
+    "summary": "Compare two phrases separated by a vertical bar for anagram equality.",
+    "script": "apps/text_tools/anagram_checker/anagram_checker.py"
+  },
+  {
+    "category": "text_tools",
+    "slug": "caesar_cipher",
+    "title": "Caesar Cipher",
+    "summary": "Encode text with a classic three-letter Caesar shift.",
+    "script": "apps/text_tools/caesar_cipher/caesar_cipher.py"
+  },
+  {
+    "category": "text_tools",
+    "slug": "duplicate_line_remover",
+    "title": "Duplicate Line Remover",
+    "summary": "Remove repeated lines while preserving first-seen order.",
+    "script": "apps/text_tools/duplicate_line_remover/duplicate_line_remover.py"
+  },
+  {
+    "category": "text_tools",
+    "slug": "email_masker",
+    "title": "Email Masker",
+    "summary": "Mask email usernames while preserving domains.",
+    "script": "apps/text_tools/email_masker/email_masker.py"
+  },
+  {
+    "category": "text_tools",
+    "slug": "initials_maker",
+    "title": "Initials Maker",
+    "summary": "Create initials from a person's or organization's name.",
+    "script": "apps/text_tools/initials_maker/initials_maker.py"
+  },
+  {
+    "category": "text_tools",
+    "slug": "line_sorter",
+    "title": "Line Sorter",
+    "summary": "Sort nonempty text lines case-insensitively.",
+    "script": "apps/text_tools/line_sorter/line_sorter.py"
+  },
+  {
+    "category": "text_tools",
+    "slug": "markdown_link_extractor",
+    "title": "Markdown Link Extractor",
+    "summary": "Extract labels and targets from inline Markdown links.",
+    "script": "apps/text_tools/markdown_link_extractor/markdown_link_extractor.py"
+  },
+  {
+    "category": "text_tools",
+    "slug": "morse_encoder",
+    "title": "Morse Code Encoder",
+    "summary": "Encode letters and digits as International Morse code symbols.",
+    "script": "apps/text_tools/morse_encoder/morse_encoder.py"
+  },
+  {
+    "category": "text_tools",
+    "slug": "palindrome_checker",
+    "title": "Palindrome Checker",
+    "summary": "Check whether text reads the same after normalization.",
+    "script": "apps/text_tools/palindrome_checker/palindrome_checker.py"
+  },
+  {
+    "category": "text_tools",
+    "slug": "password_strength",
+    "title": "Password Strength Coach",
+    "summary": "Score password variety and length without storing the input.",
+    "script": "apps/text_tools/password_strength/password_strength.py"
+  },
+  {
+    "category": "text_tools",
+    "slug": "pig_latin",
+    "title": "Pig Latin Translator",
+    "summary": "Translate simple English words into playful Pig Latin.",
+    "script": "apps/text_tools/pig_latin/pig_latin.py"
+  },
+  {
+    "category": "text_tools",
+    "slug": "reading_time",
+    "title": "Reading Time Estimator",
+    "summary": "Estimate reading and speaking time from word count.",
+    "script": "apps/text_tools/reading_time/reading_time.py"
+  },
+  {
+    "category": "text_tools",
+    "slug": "rot13_encoder",
+    "title": "ROT13 Encoder",
+    "summary": "Apply the reversible ROT13 substitution to text.",
+    "script": "apps/text_tools/rot13_encoder/rot13_encoder.py"
+  },
+  {
+    "category": "text_tools",
+    "slug": "sentence_stats",
+    "title": "Sentence Statistics",
+    "summary": "Summarize sentence count and average sentence length.",
+    "script": "apps/text_tools/sentence_stats/sentence_stats.py"
+  },
+  {
+    "category": "text_tools",
+    "slug": "slugifier",
+    "title": "Slugifier",
+    "summary": "Turn a title into a lowercase URL-friendly slug.",
+    "script": "apps/text_tools/slugifier/slugifier.py"
+  },
+  {
+    "category": "text_tools",
+    "slug": "smart_title_case",
+    "title": "Smart Title Case",
+    "summary": "Capitalize a heading while keeping short connector words lowercase.",
+    "script": "apps/text_tools/smart_title_case/smart_title_case.py"
+  },
+  {
+    "category": "text_tools",
+    "slug": "vowel_histogram",
+    "title": "Vowel Histogram",
+    "summary": "Count each vowel and draw a small text histogram.",
+    "script": "apps/text_tools/vowel_histogram/vowel_histogram.py"
+  },
+  {
+    "category": "text_tools",
+    "slug": "whitespace_cleaner",
+    "title": "Whitespace Cleaner",
+    "summary": "Collapse repeated horizontal whitespace and trim every line.",
+    "script": "apps/text_tools/whitespace_cleaner/whitespace_cleaner.py"
+  },
+  {
+    "category": "text_tools",
+    "slug": "word_counter",
+    "title": "Word Counter",
+    "summary": "Count lines, words, and characters in text.",
+    "script": "apps/text_tools/word_counter/word_counter.py"
+  },
+  {
+    "category": "text_tools",
+    "slug": "word_frequency",
+    "title": "Word Frequency Counter",
+    "summary": "List words by descending frequency.",
+    "script": "apps/text_tools/word_frequency/word_frequency.py"
+  }
+]
